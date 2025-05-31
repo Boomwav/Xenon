@@ -17,6 +17,6 @@ Variant of the [Helium Theme](https://github.com/darklinkpower/Helium) for [Play
 <summary>Settings used in screenshots (Click to expand)</summary>
 
 
-![Screenshot](https://raw.githubusercontent.com/boomwav/Xenon/master/screenshots/detail_01.jpg)
+![Screenshot](https://raw.githubusercontent.com/boomwav/Xenon/master/screenshots/Detail_01.jpg)
 
-![Screenshot](https://raw.githubusercontent.com/boomwav/Xenon/master/screenshots/detail_02.jpg)
+![Screenshot](https://raw.githubusercontent.com/boomwav/Xenon/master/screenshots/Detail_02.jpg)
