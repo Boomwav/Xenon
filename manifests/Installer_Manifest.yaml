@@ -3,6 +3,6 @@ Packages:
   - Version: 1.00
     RequiredApiVersion: 2.5.0
     ReleaseDate: 2025-05-31
-    PackageUrl: https://github.com/darklinkpower/Helium/releases/download/1.00/xenon-by-boomwav_1_00.pthm
+    PackageUrl: https://github.com/boomwav/Xenon
     Changelog:
       - 'First release'
